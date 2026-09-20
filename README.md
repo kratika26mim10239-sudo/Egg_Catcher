@@ -31,10 +31,3 @@ This project was created as a beginner Python project to learn basic GUI concept
 * **Language:** Python 3.x
 * **GUI Framework:** Tkinter (Included with standard Python)
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
